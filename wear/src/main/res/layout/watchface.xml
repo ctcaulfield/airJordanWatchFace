@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="8dp"
+    >
+
+    <ImageView
+        android:src="@drawable/ic_action_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/jordan"
+        android:layout_above="@+id/hour"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5"
+        android:id="@+id/month"
+        android:textColor="#aaa"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:layout_above="@+id/hour"
+        android:layout_toStartOf="@+id/jordan" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="14"
+        android:id="@+id/date"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:layout_above="@+id/minute"
+        android:layout_toEndOf="@+id/jordan" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="18"
+        android:id="@+id/hour"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:fontFamily="monospace"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@+id/jordan" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="53"
+        android:id="@+id/minute"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:fontFamily="monospace"
+        android:layout_below="@+id/jordan"
+        android:layout_toEndOf="@+id/jordan" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/weekendProgress"
+        android:layout_marginTop="14dp"
+        android:max="7"
+        android:visibility="visible"
+        android:layout_below="@+id/hour"
+        android:layout_alignStart="@+id/hour"
+        android:layout_alignEnd="@+id/minute" />
+
+</RelativeLayout>

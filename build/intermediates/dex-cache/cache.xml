@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_33b5c8f9127524a5122894124b36988af5def096/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_65f64174aac285f3ea059f4f6f1b79a964ea7ae4/classes.dex" />
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_0b0a60c94b0fa93115314da213f6e27f1281113b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,6 +48,87 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_dfacfb3f7e4b25cc5ba79463fc1803ae378fd162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="067d009fcc366e7472969caa5580035f877fc39c">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9ad584d299a6c69a2ffa0e6b94887b5b02fbf14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_62372fe4ac1b3449ac642d202de8a4c343a76de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9d0f3976aa6015750b66a11b9275ca8e0d3e67bb">
+        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_55f6a0ab294a7e18652247cda4696158c911a791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_b36ec06b7aeb7bcc5a87c3b7efeacbdcc7f7cdcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_5014667e3ea8f5f5511bd733e911a6cb35492cbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9bbe2ea9d8f1c66c2c50e6c2c1c7d12aa282942f">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b5447f724c04ab83b68f18086aac9eaf7a1c454b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_a9bbb0dcfd57157e501751d32c9f4e9c5a454649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha3_f6e6732c71362d76bbfb85d3762cd149c3a2dee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -57,102 +147,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_dfacfb3f7e4b25cc5ba79463fc1803ae378fd162/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3202db513a724413357b6189c481d88004a97b79">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha3_6516e212df0056886606dfcf3218a2d40493b093/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_8ca36a7596a7c7e14f88b2d101d1d26a448e45d1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_d137c5fa57d0c98ad7b0ab0a0f34dba6dd57acae/classes.dex" />
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_b699cb2b77f20caf1aa0abd31a4e3419c38b448b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_1989476df9cc08c78716d8e79d89cd4ff43668ad/classes.dex" />
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_0cd704f321e83694a9c74462df2b3919997e4d1a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jar="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_08008a6ab682a337d3617d04899417ad8f761f4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9d0f3976aa6015750b66a11b9275ca8e0d3e67bb">
-        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_55f6a0ab294a7e18652247cda4696158c911a791/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_f5551c80f389cb08e9eaac8a3df4031c514568f9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3999466eb996de73648f8605653c4c602f4f05c5">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d29cfaaea9c56e6be3d832d1eebe95b66413b54/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_5014667e3ea8f5f5511bd733e911a6cb35492cbe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_45dcaac41185192043c5f6621dac900503f006f8/classes.dex" />
+        <dex dex="/Users/Ephphatha23/Documents/Dev/airJordanWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_3df4ead5acec5bdf227cdf36b55c8693f449f631/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,30 +183,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_a9bbb0dcfd57157e501751d32c9f4e9c5a454649/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
         <dex dex="/Users/Ephphatha23/Desktop/ShootMeInTheWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_d6e4454ebf2ad9802195097b11ae113edfba9918/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="952a7014f2e806c6d73ee6875b19798757194a47">
-        <dex dex="/Users/Ephphatha23/Desktop/customWatchFace/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b853eca45a9a0dc63b21f5ea3d140712af21901d/classes.dex" />
     </item>
 
 </items>
